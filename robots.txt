@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /login
+Disallow: /pages/404.html
+Sitemap: https://fproject-evgen.netlify.app/sitemap.xml
